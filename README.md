@@ -4,11 +4,17 @@
 To run this programme you must have a commar deliminated matrix of NxM size with all elements filled such as:
 
 ,Isolate1,Isolate2,Isolate3,Isolate4,Isolate5,Isolate6,Isolate7
+
 Gene1,1,1,0,0,0,0,1
+
 Gene2,1,1,1,1,1,0,0
+
 Gene3,1,1,1,1,1,0,0
+
 Gene4,1,1,0,0,0,0,1
+
 Gene5,1,1,1,1,1,0,0
+
 Gene6,1,1,1,1,0,0,0
 
 The programme will build a matrix comparing the column headers too the row headers.
